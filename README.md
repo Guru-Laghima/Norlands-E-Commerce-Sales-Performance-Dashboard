@@ -40,6 +40,9 @@ Contains order-level data including sales amount, quantity, customer details, se
 - Created visualizations for Sales Over Time, Sales by Region, Sales by Segment, Top 5 States, Top 5 Customers, geographic heatmap, and a detailed orders table.
 - Added filters for Date Range, Region, Segment, and State to allow flexible exploration.
 
+## Dashboard Preview
+
+
 ## Recommendations and Insights
 1. **Sales Trend**  
    Sales peaked in 2022 (₦609.21K) and declined in 2023.  
