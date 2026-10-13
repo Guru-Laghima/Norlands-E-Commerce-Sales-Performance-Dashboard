@@ -41,7 +41,7 @@ Contains order-level data including sales amount, quantity, customer details, se
 - Added filters for Date Range, Region, Segment, and State to allow flexible exploration.
 
 ## Dashboard Preview
-
+<img width="971" height="888" alt="image" src="https://github.com/user-attachments/assets/9309dd86-bd39-4110-a1fd-dc8bb52f7b9e" />
 
 ## Recommendations and Insights
 1. **Sales Trend**  
